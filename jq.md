@@ -1,11 +1,14 @@
 # Basic
+Get everything 
+```
+jq '.'
+```
+
 Get a named property
 ```
-  echo '{"id": 1, "name": "Cam"}' | jq '.id'``
+  echo '{"id": 1, "name": "Cam"}' | jq '.id'
 ```
   
-
-
 
 
 
