@@ -44,3 +44,26 @@ $ docker container inspect <name or id>
 
 ```
 
+# Dockerfile
+
+## Instructions to create new layer
+- FROM
+- RUN
+- COPY
+## Instructions to create metadata
+- EXPOSE 
+- ENTRYPOINT
+- ENV
+- WORKDIR
+
+
+```
+# To show instructions execution history
+docker image history <repo:tag>
+
+# build image
+docker image build
+```
+
+
+
