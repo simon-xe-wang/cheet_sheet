@@ -1,6 +1,7 @@
 # Image
 
 ```
+$ docker image pull myregistry.local:5000/<repo>[:tag]
 $ docker image inspect nigelpoulton/pluralsight-docker-ci
 ```
 
