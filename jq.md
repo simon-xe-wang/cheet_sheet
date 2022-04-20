@@ -7,6 +7,8 @@ jq '.'
 Get a named property
 ```
   echo '{"id": 1, "name": "Cam"}' | jq '.id'
+  
+  jq '.a.b.c'
 ```
   
 
