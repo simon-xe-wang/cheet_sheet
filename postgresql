@@ -1,0 +1,10 @@
+list databases
+
+  \l
+
+
+list namespaces
+```
+\dn```
+list users
+list 
