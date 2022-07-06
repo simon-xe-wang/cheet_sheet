@@ -30,3 +30,12 @@
   \du+
   ```
 
+### psql
+```
+psql -f <sql_file>
+pg_dump
+pg_restore
+
+```
+  
+
