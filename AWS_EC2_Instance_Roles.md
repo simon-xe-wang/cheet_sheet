@@ -1,3 +1,4 @@
+```
 # get nodes within a EKS cluster
 kcs get nodes -yaml
 
@@ -9,3 +10,4 @@ aws iam list-instance-profiles --profile 023804207645-administrator --region us-
 
 # get a instance profile to see what instance role the profile contains.
 aws iam get-instance-profile --instance-profile-name eks-78c1545e-3ccc-2540-8f15-9dab26c4aa64 --profile 023804207645-administrator --region us-gov-west-1
+```
